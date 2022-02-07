@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/header/NavBar";
 import Footer from "./components/footer/Footer";
-import LoginComponent from "./components/pages/LoginComponent";
+import LoginComponent from "./components/pages/login/LoginComponent";
 
 function App() {
   return (
