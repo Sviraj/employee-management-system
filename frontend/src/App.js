@@ -15,6 +15,7 @@ function App() {
           <Route path="/signup" element={<LoginComponent/>}/>
           <Route path="/employee" element={<LoginComponent/>}/>
         </Routes>
+        
         <Footer/>
       </Router>
     </>  
